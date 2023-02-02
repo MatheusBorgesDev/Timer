@@ -1,4 +1,4 @@
-# Calculadora de IMC
+# TIMER
 
 > Projeto construído durante as aulas da trilha Explorer da Rocketseat.
 

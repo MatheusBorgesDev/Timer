@@ -1,26 +1,28 @@
 # TIMER
 
-> Projeto construído durante as aulas da trilha Explorer da Rocketseat.
+## An alarm clock that can be timed by the user.
 
-    As aulas tiveram o objetivo de utilizar DOM e ES Modules (EcmaScript 6 - ES6) para construir um despertador que pode ter seu tempo programado pelo usuário. Também trabalhamos com a inserção de áudio na aplicação. 
-    
-    Reforçamos conhecimentos sobre HTML, CSS, JavaScript, DOM, node, eventos, refatoração de código e separação do JS em módulos.
+> Project built during classes on the Explorer trail at Rocketseat educational institution.
+> 
+> The classes aimed to use DOM and ES Modules (EcmaScript 6 - ES6) to build an alarm clock that can have its time programmed by the user. We also work with the insertion of audio in the application.
+>  
+> We reinforce knowledge about HTML, CSS, JavaScript, DOM, node, events, code refactoring and separating JS into modules.
 
 ![preview_1](./.github/preview_1.png)
 ![preview_2](./.github/preview_2.png)
 
-🔗 [Clique aqui para acessar](https://mbslash.github.io/Timer/)
+🔗 [Click here to access](https://matheusborgesdev.github.io/Timer/)
 
-## 💻 Tecnologias
+## 💻 Technologies
 
 - HTML
 - CSS
 - JavaScript
 - ECMAScript 6
 - DOM
-- Git e Github
+- Git & Github
 - Figma
 
-## 📧 Contato
+## 📧 Contact
 
 matheusb.dev@gmail.com
